@@ -1,5 +1,3 @@
-# AI_Programming_Project
-Python project demonstrating AI programming concepts including student data handling and file storage.
 # AI Programming Project
 
 ## Student Information
@@ -28,4 +26,3 @@ This project uses Python standard libraries:
 1. Install Python on your computer
 2. Download or clone this repository
 
-Example:
