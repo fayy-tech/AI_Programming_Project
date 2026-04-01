@@ -2,7 +2,7 @@
 
 ## Student Information
 Name: Faith Kioko  
-Registration Number: YOUR_REGISTRATION_NUMBER
+Registration Number: 260003DAI
 
 ## Project Title
 AI Student Information System
